@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669889653096",
+    "project_id": "rizervi-ea84e",
+    "storage_bucket": "rizervi-ea84e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669889653096:android:490eca76425240ca36cedd",
+        "android_client_info": {
+          "package_name": "com.example.rizervi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtwXOfDGojm90yjnrn_lsyrHinK3XSpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Car Body -->
+    <path
+        android:pathData="M25,75 L83,75 L83,65 C83,60 80,55 75,55 L33,55 C28,55 25,60 25,65 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Car Top -->
+    <path
+        android:pathData="M35,55 L42,42 L66,42 L73,55 Z"
+        android:fillColor="#E1E1E1"/>
+
+    <!-- Windows -->
+    <path
+        android:pathData="M40,52 L45,45 L52,45 L52,52 Z M56,52 L56,45 L63,45 L68,52 Z"
+        android:fillColor="#333333"/>
+
+    <!-- Wheels -->
+    <path
+        android:pathData="M38,69 A6,6 0 1,1 38,81 A6,6 0 1,1 38,69 Z"
+        android:fillColor="#000000"/>
+    <path
+        android:pathData="M70,69 A6,6 0 1,1 70,81 A6,6 0 1,1 70,69 Z"
+        android:fillColor="#000000"/>
+
+    <!-- Highlights / Speed Lines -->
+    <path
+        android:pathData="M15,50 L25,50 M10,60 L20,60"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+
+</vector>

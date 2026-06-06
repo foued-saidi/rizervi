@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rizervi</string>
+    <string name="welcome_title">Covoiturage Tunisie</string>
+    <string name="search_hint">Rechercher destination...</string>
+    <string name="sort_price">Prix</string>
+    <string name="sort_rating">Note</string>
+    <string name="sort_time">Temps</string>
+    <string name="sort_distance">Distance</string>
+    <string name="sort_seats">Places</string>
+    <string name="sort_date">Date</string>
+    <string name="reservation_success">Réservation réussie pour %1$s</string>
+    <string name="reservation_error">Échec de la réservation</string>
+    <string name="book_button">Réserver</string>
+    <string name="seats_available">%1$d Places</string>
+    <string name="ride_full">Complet</string>
+    <string name="location_permission_required">La permission de localisation est nécessaire pour calculer la distance.</string>
+    <string name="reset_success">Données réinitialisées !</string>
+    <string name="reset_button">Reset</string>
+</resources>

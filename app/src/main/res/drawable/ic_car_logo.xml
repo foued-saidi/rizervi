@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background / Sky -->
+    <path
+        android:pathData="M0,0h108v108h-108z"
+        android:fillColor="#007AFF"/>
+
+    <!-- Road -->
+    <path
+        android:pathData="M0,70 L108,70 L108,108 L0,108 Z"
+        android:fillColor="#333333"/>
+
+    <!-- Road Line -->
+    <path
+        android:pathData="M10,88 L30,88 M50,88 L70,88 M90,88 L110,88"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+
+    <!-- Car Body -->
+    <path
+        android:pathData="M25,75 L83,75 L83,65 C83,60 80,55 75,55 L33,55 C28,55 25,60 25,65 Z"
+        android:fillColor="#FFFFFF"/>
+
+    <!-- Car Top (Cabin) -->
+    <path
+        android:pathData="M35,55 L42,42 L66,42 L73,55 Z"
+        android:fillColor="#E1E1E1"/>
+
+    <!-- Windows -->
+    <path
+        android:pathData="M40,52 L45,45 L52,45 L52,52 Z M56,52 L56,45 L63,45 L68,52 Z"
+        android:fillColor="#333333"/>
+
+    <!-- Wheels -->
+    <path
+        android:pathData="M35,75 A5,5 0 1,1 35,76 Z"
+        android:fillColor="#000000"/>
+    <path
+        android:pathData="M73,75 A5,5 0 1,1 73,76 Z"
+        android:fillColor="#000000"/>
+
+    <!-- Shine / Speed lines -->
+    <path
+        android:pathData="M15,50 L22,50 M12,58 L19,58"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:fillAlpha="0.6"/>
+
+</vector>
